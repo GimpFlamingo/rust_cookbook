@@ -1,0 +1,14 @@
+/home/ray/repos/rust_cookbook/compression/target/debug/deps/tar-b13c1c0d0e29f433.rmeta: /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/lib.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/archive.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/builder.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry_type.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/error.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/header.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/pax.rs
+
+/home/ray/repos/rust_cookbook/compression/target/debug/deps/libtar-b13c1c0d0e29f433.rlib: /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/lib.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/archive.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/builder.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry_type.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/error.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/header.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/pax.rs
+
+/home/ray/repos/rust_cookbook/compression/target/debug/deps/tar-b13c1c0d0e29f433.d: /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/lib.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/archive.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/builder.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry_type.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/error.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/header.rs /home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/pax.rs
+
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/lib.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/archive.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/builder.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/entry_type.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/error.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/header.rs:
+/home/ray/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.26/src/pax.rs:

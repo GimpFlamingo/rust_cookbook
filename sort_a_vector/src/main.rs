@@ -1,0 +1,17 @@
+
+fn sort_floats() {
+    
+}
+
+// Sorts the integers in a vector
+fn sort_integers() {
+    let mut vec = vec![1, 5, 10, 2, 15];
+
+    vec.sort();
+
+    assert_eq!(vec, vec![1, 2, 5, 10, 15]);
+}
+
+fn main() {
+    sort_integers();
+}

@@ -1,0 +1,1 @@
+{"rustc":17444072189324216992,"features":"[]","target":3964833990428810933,"profile":14996655781355331481,"path":1036222786711178230,"deps":[[79748301845823152,"rusqlite",false,1371780295300482813]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/database_sqlite-918b4a7412231795/dep-bin-database_sqlite-918b4a7412231795"}}],"rustflags":[],"metadata":5259179493556365254}
